@@ -3,5 +3,6 @@ This is a test file
 Teacher = Simon McCallum
 
 Teams:
+kevin
 
 add yourself here
