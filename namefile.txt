@@ -5,3 +5,5 @@ Teacher = Simon McCallum
 Teams:
 
 add yourself here
+dream team extreme
+Amund, Geir, Sigurd , Sindre
